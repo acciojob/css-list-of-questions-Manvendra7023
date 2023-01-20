@@ -1,10 +1,10 @@
 
 /* Your CSS Code here. */
-blockquote{
+.logo{
 	background-color: #f8fffe; 
 	height: 50px; 
 	margin-top: 20px; 
-	padding: 15px; 
+	padding: 25px; 
 	max-width: 600px; 
 	border-left: 8px solid green
 
